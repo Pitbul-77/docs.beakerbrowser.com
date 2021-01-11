@@ -8,6 +8,7 @@ Every hyperdrive has a manifest file at `/index.json`. This file is used by the 
 Note: the manifest schema is still under development and may change.
 :::
 
+
 An example manifest:
 
 ```json
